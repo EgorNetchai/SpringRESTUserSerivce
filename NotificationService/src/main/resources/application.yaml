@@ -16,7 +16,7 @@ spring:
         spring:
           json:
             trusted:
-              packages: se
+              packages: ru.aston.intensive.common.dto
 
   mail:
     host: smtp.yandex.by
